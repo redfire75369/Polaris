@@ -1,0 +1,7 @@
+.git*
+,env*
+
+LICENSE
+*.md
+
+node_modules
